@@ -3,7 +3,7 @@
 ### Software Intern at Calian Advanced Technologies
 
 - 🔭 I’m currently working as a student software developer with [Calian Advanced Technologies](https://www.calian.com/service-lines/advanced-technologies/).
-- 🌱 I’m currently learning in-depth C/C++.
+- 🌱 I’m currently learning/working on [Nand 2 Tetris](https://www.nand2tetris.org).
 - 👯 I’m looking to collaborate with others and work on open-source projects.
 - 📫 How to reach me: kushpadalia2002@gmail.com.
 - ⚡ My hobbies include playing the piano, working out, and reading.
