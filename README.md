@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Kush Padalia
 ### Computer Science Student at the University of Alberta
-### Software Intern/Researcher/Teaching Assistant
+### Associate Software Engineer at Veeva
 
-- 📕 Currently enrolled in my final year at the University of Alberta.
+- 📕 University of Alberta 2025 graduate in conputing science. 
 - 🔭 Previously interned as a student software developer with [Calian Advanced Technologies](https://www.calian.com/service-lines/advanced-technologies/).
 - 🌱 I’m currently learning/working on [Nand 2 Tetris](https://www.nand2tetris.org).
 - 👯 I’m looking to collaborate with others and work on open-source projects.
